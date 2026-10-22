@@ -1,0 +1,26 @@
+{
+  "name": "@buildingcosts/uk-building-math",
+  "version": "1.0.0",
+  "description": "Standard UK construction calculation formulas benchmarked against British Standards (BS 8500, BS EN 771-1).",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "construction-calculator",
+    "uk-building-standards",
+    "concrete-calculator",
+    "brick-calculator",
+    "bs-8500",
+    "bs-en-771-1"
+  ],
+  "author": "BuildingCosts.co.uk <contact@buildingcosts.co.uk>",
+  "homepage": "https://buildingcosts.co.uk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buildingcostsuk/uk-building-math.git"
+  },
+  "license": "MIT"
+}
