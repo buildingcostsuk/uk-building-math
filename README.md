@@ -1,4 +1,4 @@
-# UK Building Mathematics (`@buildingcosts/uk-building-math`)
+# UK Building Mathematics (`@buildingcostsuk/uk-building-math`)
 
 > Lightweight mathematical constants and calculation models calibrated for United Kingdom construction benchmarks, British Standards (**BS 8500**, **BS EN 771-1**), and standard metric building practices.
 

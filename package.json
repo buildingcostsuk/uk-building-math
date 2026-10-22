@@ -1,5 +1,5 @@
 {
-  "name": "@buildingcosts/uk-building-math",
+  "name": "@buildingcostsuk/uk-building-math",
   "version": "1.0.0",
   "description": "Standard UK construction calculation formulas benchmarked against British Standards (BS 8500, BS EN 771-1).",
   "main": "dist/index.js",
